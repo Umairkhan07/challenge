@@ -16,8 +16,8 @@ You may also see any lint errors in the console.
 
 ### To run the project under docker container do the following
 
-Build the image using the command -> \ `docker build -t task:latest .` 
-Run teh docker container using -> \ `docker run -dp 3000:3000 --name frontendtask task:latest`
+Build the image using the command -> `docker build -t task:latest .` \
+Run teh docker container using -> `docker run -dp 3000:3000 --name frontendtask task:latest` \
 Open localhost:3000 in the browser to see the app up and running
 
 ### Important Note :
